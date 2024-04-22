@@ -1,0 +1,38 @@
+.card{
+ background: #27293d!important;
+}
+
+th{
+    background: transparent!important;
+    color: #ccc!important;
+    border-bottom: 0.5pt solid gray;
+
+}
+td{
+    background: transparent!important;
+    color: #ccc!important;
+    border-bottom: 0.10pt solid gray;
+}
+.category{
+ font-size: 14px!important;
+ font-weight: 200;
+}
+.CardTitle{
+ font-weight: 200;
+ font-size: 18px;
+ color: #ccc!important;
+}
+.card-header{
+    border: none!important;
+}
+.add-btn{
+    background: #333;
+    margin: 1rem 0;
+    padding: .5rem 1rem ;
+    color: white;
+    border-radius: .2rem;
+    
+}
+.bg__color{
+   background:#27293d;
+}
